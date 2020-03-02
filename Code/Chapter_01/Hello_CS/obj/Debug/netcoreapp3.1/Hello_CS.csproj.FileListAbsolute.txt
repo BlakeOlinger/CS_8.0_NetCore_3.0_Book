@@ -1,0 +1,11 @@
+/home/vsonline/workspace/Code/Chapter_01/Hello_CS/bin/Debug/netcoreapp3.1/Hello_CS
+/home/vsonline/workspace/Code/Chapter_01/Hello_CS/bin/Debug/netcoreapp3.1/Hello_CS.deps.json
+/home/vsonline/workspace/Code/Chapter_01/Hello_CS/bin/Debug/netcoreapp3.1/Hello_CS.runtimeconfig.json
+/home/vsonline/workspace/Code/Chapter_01/Hello_CS/bin/Debug/netcoreapp3.1/Hello_CS.runtimeconfig.dev.json
+/home/vsonline/workspace/Code/Chapter_01/Hello_CS/bin/Debug/netcoreapp3.1/Hello_CS.dll
+/home/vsonline/workspace/Code/Chapter_01/Hello_CS/bin/Debug/netcoreapp3.1/Hello_CS.pdb
+/home/vsonline/workspace/Code/Chapter_01/Hello_CS/obj/Debug/netcoreapp3.1/Hello_CS.csprojAssemblyReference.cache
+/home/vsonline/workspace/Code/Chapter_01/Hello_CS/obj/Debug/netcoreapp3.1/Hello_CS.AssemblyInfoInputs.cache
+/home/vsonline/workspace/Code/Chapter_01/Hello_CS/obj/Debug/netcoreapp3.1/Hello_CS.AssemblyInfo.cs
+/home/vsonline/workspace/Code/Chapter_01/Hello_CS/obj/Debug/netcoreapp3.1/Hello_CS.dll
+/home/vsonline/workspace/Code/Chapter_01/Hello_CS/obj/Debug/netcoreapp3.1/Hello_CS.pdb
